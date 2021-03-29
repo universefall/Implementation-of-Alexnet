@@ -1,5 +1,5 @@
 # Implementation-of-Alexnet
-This is a implementation of  Alexnet. The network is trained and tested on cat vs dog dataset of Kaggle.
+This is a implementation of  Alexnet. The network is trained and tested on cat vs dog dataset of Kaggle. It is built based on PyTorch.
 # Inference 
 The pretrained model can be downloaded from Pytorch website. And the pretrained model should be put into the data folder. 
 # Training
